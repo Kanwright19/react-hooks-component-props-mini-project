@@ -92,3 +92,11 @@ If the article takes 30 minutes or longer to read:
 
 There aren't tests for this feature, so you'll have to rely on running the code
 in the browser to see if your implementation works!
+
+// Kairi's Notes
+
+App
+  Header
+  About 
+  Article List
+    Article 
